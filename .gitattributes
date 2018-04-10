@@ -1,0 +1,5 @@
+# Git file attributes
+# https://git-scm.com/docs/gitattributes
+
+# Use CRLF line endings for all files
+*     text eol=crlf
